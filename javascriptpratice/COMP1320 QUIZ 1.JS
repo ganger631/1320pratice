@@ -1,0 +1,1 @@
+var greetng = "hello 
